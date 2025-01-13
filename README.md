@@ -1,2 +1,2 @@
 # Hello GitHub
-No money no funney  local
+No money no funney  remote
